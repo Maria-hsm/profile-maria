@@ -1,0 +1,163 @@
+body {
+     background-color: #94A684;
+}
+
+.top-countainer {
+     position: relative;
+     margin-top: 50px;
+     margin-bottom: 50px;
+     background-color: #dacab8;
+     border-radius: 50%;
+     width: 600px;
+     display: flex;
+     justify-content: center;
+     margin: auto;
+}
+
+h1 {
+     font-size: 6rem;
+     color: #A4907C;
+     font-family: 'Caveat', cursive;
+     font-weight: bolder;
+     text-align: center;
+}
+
+h2 {
+     font-size: 2.5rem;
+     color: #A4907C;
+     font-weight: lighter;
+     text-align: center;
+     font-family: 'Lato', sans-serif;
+}
+
+.main {
+     text-align: center;
+     color: #8D7B68;
+     font-weight: bolder;
+     font-size: 2.5rem;
+     font-family: 'Lato', sans-serif;
+}
+
+.info {
+     text-align: center;
+     width: 30%;
+     margin: auto;
+     color: #F6F1E9;
+     font-size: 1.5rem;
+}
+
+hr {
+     border: 3px solid rgb(221, 221, 221);
+}
+
+.second {
+     border: 10px dotted rgb(187, 212, 187);
+     width: 4%;
+     margin: 100px auto;
+     border-bottom: none;
+}
+
+.middle-countainer {
+     margin: 100px;
+}
+
+.kitten {
+     display: flex;
+     margin: auto;
+     width: 200px;
+     border-radius: 50%;
+}
+
+p {
+     width: 20%;
+     color: #F6F1E9;
+     font-size: 1.5rem;
+}
+
+h3 {
+     width: 20%;
+     color: #504336db;
+     font-weight: bolder;
+     margin-bottom: 30px;
+}
+.contact-message {
+     text-align: center;
+     width: 30%;
+     margin: auto;
+     color: #F6F1E9;
+     font-size: 1.5rem
+}
+
+.same {
+     text-align: center;
+     color: #504336db;
+     font-weight: bolder;
+     font-size: 1.8rem;
+     margin: auto;
+     width: 30%;
+     margin-bottom: 20px;
+}
+
+
+.typing {
+     float: left;
+     padding-left: 40px;
+     padding-top: 40px;
+     width: 80%;
+     height: 80%;
+
+}
+
+.computer {
+     float: right;
+     padding-left: 20px;
+     padding-top: 20px;
+     font-size: 1rem;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+
+.teacher {
+     float: left;
+     padding-left: 40px;
+     padding-top: 50px;
+     width: 80%;
+     height:80%;
+
+}
+
+.teaching {
+     padding-left: 20px;
+     padding-top: 30px;
+     font-size: 1rem;
+}
+.second-parent {
+     display: flex;
+     justify-content: space-around;
+    
+}
+
+.btn {
+     background-color: #8d7b6892;
+     color: #F6F1E9;
+     font-size: 1rem;
+     border-radius: 10px;
+     padding: 20px 20px;
+     margin: 30px 46%;
+}
+
+.buttom-countainer {
+     background-color: rgb(221, 221, 221);
+     width: 100%;
+     height: 50px;
+     text-align: center;
+     padding-top: 30px;
+}
+
+.footer {
+     color:#9a9590ea;
+     text-decoration: none;
+}
